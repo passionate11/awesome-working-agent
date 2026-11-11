@@ -53,7 +53,7 @@ Read the survey on [arXiv](https://arxiv.org/abs/2610.35845), and visit the [pro
 
 ## Agents, Methods & Systems
 
-Agents, learning methods, training environments, and runtime systems for producing work outcomes and improving capability. **279 entries.**
+Agents, learning methods, training environments, and runtime systems for producing work outcomes and improving capability. **280 entries.**
 
 | Paper | Year | Focus | Links |
 | --- | --- | --- | --- |
@@ -151,6 +151,7 @@ Agents, learning methods, training environments, and runtime systems for produci
 | **TCOD**: Exploring Temporal Curriculum in On-Policy Distillation for Multi-turn Autonomous Agents <sup>[210]</sup> | 2026 | Learning & agent harnesses | [Paper](https://arxiv.org/abs/2604.24005) · [Code](https://github.com/kokolerk/TCOD) · [Publication](https://openreview.net/forum?id=KH9eJRz8WR) |
 | **TDScaling**: Beyond Quantity: Trajectory Diversity Scaling for Code Agents <sup>[176]</sup> | 2026 | Tools & business workflows | [Paper](https://arxiv.org/abs/2602.03219) · [Publication](https://aclanthology.org/2026.findings-acl.768/) |
 | **Tool Description Rewriter**: Learning to Rewrite Tool Descriptions for Reliable LLM-Agent Tool Use <sup>[226]</sup> | 2026 | Learning & agent harnesses | [Paper](https://arxiv.org/abs/2602.20426) |
+| **ToolMaster**: Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction | 2026 | Tools & business workflows | [Paper](https://arxiv.org/abs/2601.12762) · [Code](https://github.com/NEUIR/ToolMaster) |
 | **Trace2Skill (Office)**: Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills | 2026 | Learning & agent harnesses | [Paper](https://arxiv.org/abs/2603.25158) · [Code](https://github.com/Qwen-Applications/Trace2Skill) |
 | **TrajLong**: Co-Designing Agentic and Long-Context Supervision for Mid-Training <sup>[190]</sup> | 2026 | Learning & agent harnesses | [Paper](https://arxiv.org/abs/2610.04973) |
 | **UI-Copilot**: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization <sup>[259]</sup> | 2026 | Web, desktop & mobile | [Paper](https://arxiv.org/abs/2604.13822) · [Publication](https://aclanthology.org/2026.acl-long.904/) · [Code](https://github.com/ZJU-REAL/UI-Copilot) |
@@ -339,7 +340,7 @@ Agents, learning methods, training environments, and runtime systems for produci
 
 ## Benchmarks & Evaluation
 
-Benchmarks, datasets, evaluation environments, and protocols for measuring task completion, work quality, reliability, and cost. **190 entries.**
+Benchmarks, datasets, evaluation environments, and protocols for measuring task completion, work quality, reliability, and cost. **191 entries.**
 
 | Paper | Year | Focus | Links |
 | --- | --- | --- | --- |
@@ -373,6 +374,7 @@ Benchmarks, datasets, evaluation environments, and protocols for measuring task 
 | **DrugDiscoveryBench**: Can Coding Agents Assist Early-Stage Drug Discovery? | 2026 | Software, data & research | [Paper](https://labs.scale.com/leaderboard/drugdiscoverybench) · [Code](https://github.com/scaleapi/DrugDiscoveryBench) · [Data](https://huggingface.co/datasets/ScaleAI/DrugDiscoveryBench-Preview) |
 | **E-Bench**: Benchmarking Multi-Step Tool-Use Agents in Real-World Product Scenarios | 2026 | Tools & business workflows | [Paper](https://arxiv.org/abs/2607.23722) |
 | **E-Commerce Bench**: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation <sup>[33]</sup> | 2026 | Tools & business workflows | [Paper](https://arxiv.org/abs/2608.30730) · [Code](https://github.com/QwenLM/E-CommerceBench) · [Data](https://github.com/QwenLM/E-CommerceBench/tree/main/data) · [Website](https://ecbench.github.io/) |
+| **EC²-Bench (EC2-Bench)**: Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution | 2026 | Workspaces & occupational work | [Paper](https://arxiv.org/abs/2610.17816) · [Code](https://github.com/OpenBMB/EC2-Bench) · [Data](https://huggingface.co/datasets/chengpingan/EC2-Bench) · [Website](https://passionate11.github.io/ec2-bench-project-page/) |
 | **EntCollabBench**: Beyond the All-in-One Agent: Benchmarking Role-Specialized Multi-Agent Collaboration in Enterprise Workflows <sup>[38]</sup> | 2026 | Tools & business workflows | [Paper](https://arxiv.org/abs/2605.08761) |
 | **EnterpriseClawBench**: Benchmarking Agents from Real Workplace Sessions | 2026 | Tools & business workflows | [Paper](https://arxiv.org/abs/2606.23654) |
 | **EnterpriseOps-Gym**: Environments and Evaluations for Stateful Agentic Planning and Tool Use in Enterprise Settings <sup>[139]</sup> | 2026 | Tools & business workflows | [Paper](https://arxiv.org/abs/2603.13594) · [Publication](https://proceedings.mlr.press/v306/malay26a.html) · [Code](https://github.com/ServiceNow/EnterpriseOps-Gym) · [Data](https://huggingface.co/datasets/ServiceNow-AI/EnterpriseOps-Gym) · [Website](https://enterpriseops-gym.github.io/) |
